@@ -20,7 +20,5 @@ public class ExercicioDois {
       System.out.println("Media do aluno: " + media);
       System.out.println("APROVADO!!");
     }
-
-
   }
 }

@@ -8,7 +8,7 @@ public class ExercicioTres {
     System.out.println("Informe a quantidade de metros que deseja converter: ");
     float metros  = inputUser.nextFloat();
 
-    float centimetros = metros * 10;
+    float centimetros = metros * 100;
 
     System.out.println("A conversão de " + metros + " para centímetros é: " + centimetros);
   }
