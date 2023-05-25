@@ -15,6 +15,6 @@ public class ExercicioQuatro {
 
     float salarioMes = valorHora * horaTrabalhada;
 
-    System.out.println("Total a receber no referido mês: R$ " + salarioMes);
+    System.out.printf("Total a receber no referido mês: R$%,.2f " , salarioMes);
   }
 }
